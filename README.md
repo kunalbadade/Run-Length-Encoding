@@ -1,0 +1,2 @@
+# Run-Length-Encoding
+Run-length encoding (RLE) is a very simple form of lossless data compression. When encoding a text string, repeated consecutive characters are replaced by a single instance of that character and the number of occurrences of that character (the character’s run length). Decoding the encoded string results in the original string by repeating each character the number of times encoded by the run length.
